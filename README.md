@@ -19,9 +19,10 @@ Our code is implemented and tested on Keras with TensorFlow backend. Following p
 Our code is tested on `Python 2.7.12` and `Python 3.6.8`
 
 ### HOWTO
+#### Data
+For the data required to train the model find it in this repository [data] (https://github.com/bolunwang/backdoor/tree/master/data).
 
 #### Injecting Backdoor 
-
 For the GTSRB model, the backdoor injection code is under the [injection repo](https://github.com/bolunwang/backdoor/tree/master/injection). 
 You will need to download the training data from [here](https://drive.google.com/file/d/1kcveaJC3Ra-XDuaNqHzYeomMvU8d1npj/view?usp=sharing). 
 #### Reverse Engineering
